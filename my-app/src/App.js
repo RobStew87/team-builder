@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
 
-import TeamMembers from "./components/TeamMembers.js";
-import Form from "./components/Form.js";
+import TeamMembers from "../components/TeamMembers.js.js.js";
+import Form from "../components/Form.js/index.js.js.js.js";
 
 import styles from "./styles.css";
 
@@ -12,9 +12,9 @@ function App() {
   const [teamMembers, setTeamMembers] = useState ([
     {    
       id:1,
-      name: "Meera Andersen",
-      email: "Meera@email.com",
-      role: "UX Designer"
+      name: "Robert Stewart",
+      email: "rstewart414@gmail.com",
+      role: "web developer"
     }
 
 
