@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
 
-import TeamMembers from "./components/TeamMembers.js";
-import Form from "./components/Form.js/index.js";
+import TeamMembers from "./components/TeamMember.js";
+import Form from "./components/Form.js";
 
 import styles from "./styles.css";
 
